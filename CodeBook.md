@@ -16,10 +16,10 @@ For this analysis, all 10,299 observations from the raw data were included, and 
 ##3.0 Data Collection and Measurement
 
 ####3.1 Measurement
-•	Features are normalized and bounded within [-1,1].
-•	Each feature vector is a row on the text file.
-•	The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
-•	The gyroscope units are rad/seg.
+* Features are normalized and bounded within [-1,1].
+* Each feature vector is a row on the text file.
+* The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
+* The gyroscope units are rad/seg.
 
 ####3.2 Data collection method
 Raw data obtained at this URL:
