@@ -18,7 +18,7 @@ A link in this repo GettingAndCleaningData takes you to a file called tiny_data.
 
 ##Code Book
 
-A link in this repo GetCleanData takes you to a file called CodeBook.md.
+A link in this repo GettingAndCleaningData takes you to a file called CodeBook.md.
 
 This code book modifies and updates the code book available from the original analysis.  It provides a description of the variables used, measurement units, and other relevant information.
 
